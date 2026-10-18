@@ -23,7 +23,7 @@ This project uses pandas to explore employee performance, salary, attrition, and
 
 ## 📈 Dashboard
 
-![HR Python Dashboard](python-dashboard.png)
+![HR Python Dashboard](python-dashboard.png.png)
 
 ## 🧹 Data Preparation
 - Checked for missing values: none found across all columns
